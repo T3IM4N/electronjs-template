@@ -14,5 +14,6 @@ Temel bir Electron uygulamasının şu dosyalara ihtiyacı vardır:
 
 Kullandığınız editörün terminalinden, Cmd'den veya Powershell'den gerekli kodları yazarak, lazım olan paketleri yükleyin, en gerekli paket olan electronjs'i indirmek için,
 ```
-
+npm install electron
 ```
+yazmanız yeterli
