@@ -16,4 +16,4 @@ Kullandığınız editörün terminalinden, Cmd'den veya Powershell'den gerekli 
 ```
 npm install electron
 ```
-yazmanız yeterli
+yazmanız yeterli.
