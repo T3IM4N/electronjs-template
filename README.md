@@ -1,6 +1,6 @@
 # Electronjs template desktop app
 
-This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
+Bu linkten [ElectronJS Dökümanları](https://electronjs.org/docs/tutorial/quick-start)'na ulaşabilirsiniz.
 
 **Use this app along with the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
 
