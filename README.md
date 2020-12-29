@@ -2,9 +2,7 @@
 
 Bu linkten [ElectronJS Dökümanları](https://electronjs.org/docs/tutorial/quick-start)'na ulaşabilirsiniz.
 
-**Use this app along with the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
-
-**Electron'la başlamak için, [linkteki kaynakları](https://electronjs.org/#get-started) kontrol ediniz.**
+**Electron'la sıfırdan başlamak için, [linkteki kaynakları](https://electronjs.org/#get-started) kontrol ediniz.**
 
 Temel bir Electron uygulamasının şu dosyalara ihtiyacı vardır:
 
