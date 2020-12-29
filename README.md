@@ -6,8 +6,8 @@ Bu linkten [ElectronJS Dökümanları](https://electronjs.org/docs/tutorial/quic
 
 **Electron'la başlamak için, [linkteki kaynakları](https://electronjs.org/#get-started) kontrol ediniz.**
 
-A basic Electron application needs just these files:
+Temel bir Electron uygulamasının şu dosyalara ihtiyacı vardır:
 
-- `package.json` - Points to the app's main file and lists its details and dependencies.
-- `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `index.html` - A web page to render. This is the app's **renderer process**.
+- `package.json` - Uygulamanın ana dosyasını işaret eder ve ayrıntılarını ve bağımlılıklarını listeler.
+- `main.js` - Uygulamayı başlatır ve ana javascript kodlarının bulunacağı bölümdür.
+- `index.html` - Uygulamanın html kodlarının yazıldığı bölümdür, ön ad olarak #frontend,
