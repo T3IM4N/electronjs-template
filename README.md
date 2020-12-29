@@ -9,3 +9,10 @@ Temel bir Electron uygulamasının şu dosyalara ihtiyacı vardır:
 - `package.json` - Uygulamanın ana dosyasını işaret eder ve ayrıntılarını ve bağımlılıklarını listeler.
 - `main.js` - Uygulamayı başlatır ve ana javascript kodlarının bulunacağı bölümdür.
 - `index.html` - Uygulamanın html kodlarının yazıldığı bölümdür, ön ad olarak #frontend,
+
+# En Başta:
+
+Kullandığınız editörün terminalinden, Cmd'den veya Powershell'den gerekli kodları yazarak, lazım olan paketleri yükleyin, en gerekli paket olan electronjs'i indirmek için,
+```
+
+```
