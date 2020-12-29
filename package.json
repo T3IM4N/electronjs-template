@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/T3IM4N/electronjs-template",
   "keywords": [
     "Electron",
     "quick",
@@ -15,7 +15,7 @@
     "demo"
   ],
   "author": "GitHub",
-  "license": "CC0-1.0",
+  "license": "ISC",
   "devDependencies": {
     "electron": "^11.1.0"
   }
