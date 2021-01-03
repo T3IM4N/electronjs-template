@@ -11,6 +11,6 @@ Temel bir Electron uygulamasının şu dosyalara ihtiyacı vardır:
 - `main.js` - Uygulamayı başlatır ve ana javascript kodlarının bulunacağı bölümdür.
 - `index.html` - Uygulamanın html kodlarının yazıldığı bölümdür, ön ad olarak #frontend,
 
-# Modül Kurulum:
+### Modül Kurulum:
 
 Kullandığınız editörün terminalinden, Cmd'den veya Powershell'den gerekli kodları yazarak, lazım olan modülleri yükleyin, en gerekli modül olan electronjs'i indirmek için, `npm install electron` yazmanız yeterli.
