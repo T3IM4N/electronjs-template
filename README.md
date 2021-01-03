@@ -1,3 +1,4 @@
+[![KZSYSTEM](https://cdn.discordapp.com/attachments/795066298295910420/795071380839202827/kzsystemtextlogo.png "KZSYSTEM")](https://github.com/T3IM4N "KZSYSTEM")
 # Electronjs template desktop app
 
 Bu linkten [ElectronJS Dökümanları](https://electronjs.org/docs/tutorial/quick-start)'na ulaşabilirsiniz.
