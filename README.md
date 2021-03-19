@@ -7,10 +7,10 @@ Bu linkten [ElectronJS Dökümanları](https://electronjs.org/docs/tutorial/quic
 
 Temel bir Electron uygulamasının şu dosyalara ihtiyacı vardır:
 
-- `package.json` - Uygulamanın ana dosyasını işaret eder ve ayrıntılarını ve bağımlılıklarını listeler.
-- `main.js` - Uygulamayı başlatır ve ana javascript kodlarının bulunacağı bölümdür.
+- `package.json` - Uygulamanın modullerinin listelendiği bölümdür, proje ismi, sürümü, bağımlılıklar gibi şeyler de içindedir.
+- `main.js` - Uygulamanın ana Javascript dosyasıdır.
 - `index.html` - Uygulamanın html kodlarının yazıldığı bölümdür, ön ad olarak #frontend,
 
 ### Modül Kurulum:
 
-Kullandığınız editörün terminalinden, Cmd'den veya Powershell'den gerekli kodları yazarak, lazım olan modülleri yükleyin, en gerekli modül olan electronjs'i indirmek için, `npm install electron` yazmanız yeterli.
+Kullandığınız editörün terminalinden, Cmd'den veya Powershell'den gerekli kodları yazarak, lazım olan modülleri yükleyin, tüm modülleri aynı anda indirmek için `npm install` yazmanız yeterli.
